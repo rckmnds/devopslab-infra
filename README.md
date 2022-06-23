@@ -1,2 +1,2 @@
 # devopslab-infra
-repositório do Terraform da aplicação devopslab.
+repositório do Terraform da aplicação devopslab...
